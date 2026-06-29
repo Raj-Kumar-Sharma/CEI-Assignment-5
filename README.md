@@ -503,7 +503,7 @@ By completing this project, the following concepts were successfully implemented
 ---
 
 ## Author
-**Pranjak Upadhyay [Poornima University]**
+**Raj Kumar [Poornima University]**
 
 **Data Engineering & Apache Spark Practice Project**
 
